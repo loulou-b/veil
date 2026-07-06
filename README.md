@@ -1,2 +1,2 @@
 # veil
-un site sur d chat
+un site sur de chat
